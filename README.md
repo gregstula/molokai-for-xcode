@@ -5,9 +5,8 @@ This intends to be a faithful implementation of the original for Xcode.
 
 # Install
 
-The theme needs to be placed in ~/Library/Developer/Xcode/UserData/FontAndColorThemes`.
-If you are lazy you can copy this into your terminal 
-`ruby -e $(curl -fssL [INSTALL])`
+The theme needs to be placed in ~/Library/Developer/Xcode/UserData/FontAndColorThemes.
+If you are lazy you can use the install script  `ruby -e $(curl -fssL [INSTALL])`
 
 # LICENSE
 MIT
