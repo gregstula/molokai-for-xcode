@@ -1,0 +1,14 @@
+# Enjoy Xcode a little bit more
+The [molokai](https://github.com/tomasr/molokai) theme is beautiful in its simplicity. Its
+minimalistic, yet expressive, colors scheme has led it to become popular amongst modern vim users. 
+This intends to be a faithful implementation of the original for Xcode.
+
+# Install
+
+The theme needs to be placed in ~/Library/Developer/Xcode/UserData/FontAndColorThemes`.
+If you are lazy you can copy this into your terminal 
+`ruby -e $(curl -fssL [INSTALL])`
+
+# LICENSE
+MIT
+
