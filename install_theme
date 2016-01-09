@@ -19,8 +19,8 @@ unless `uname -a`.split(" ").first != "Darwin"
 
   `mkdir -p #{path}` unless File.directory?(path)
   `curl -# #{source} -o #{path}/#{name}.dvtcolortheme`
-  puts "molokai.dvtcolortheme was successfully installed."
-  puts "You may need to restart Xcode for changes to take effect."
+  puts "The #{name} theme was successfully installed."
+  puts "You may need to restart Xcode for these changes to take effect."
 
 end
 
